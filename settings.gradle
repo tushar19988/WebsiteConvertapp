@@ -1,0 +1,2 @@
+rootProject.name = "website to app convert"
+include ':app'
